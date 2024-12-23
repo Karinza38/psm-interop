@@ -1,4 +1,4 @@
-# xDS Kubernetes Interop Tests
+xDS Kubernetes Interop Tests
 
 Proxyless Security Mesh Interop Tests executed on Kubernetes.
 
